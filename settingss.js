@@ -5,7 +5,7 @@ module.exports = {
   
   SESSION_ID: "malvin~h3UkwAAK#r2uJ3WnRQxUMjCipcDrHDfYy_BhMPDfmoleqkaEctGk",  // add your Session Id here
   
-  PREFIX: "+39", // prefix (e.g., ., /, !, *)
+  PREFIX: "+", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Africa/Harare" //put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "" //put your country timeZone....leave blank if u don't know.
 };
